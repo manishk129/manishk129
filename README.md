@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello there 👋, nice to see you 😀
 
-<!--
-**manishkumar-hub/manishkumar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=manishkumar-hub&color=blueviolet&label=Profile+Views" alt="rocker2102" />
 
-Here are some ideas to get you started:
+## Find me here 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://manishkumar12.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/chrome/chrome-original.svg" alt="rocker2102" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/manish-kumar-pandit-092107214/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/linkedin/linkedin-original.svg" alt="rocker2102" height="35" width="35" /></a>
+<a href="https://www.hackerrank.com/manishkumarpand2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/hackerrank/hackerrank-original.svg" alt="rocker2102" height="35" width="35" /></a>
+<a href="https://leetcode.com/manishkumarpandit12/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/leetcode/leetcode-iconscout-icon54.svg" alt="rocker2102" height="35" width="35" /></a>
+
+<br />
+
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=manishkumar-hub&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF&area=true)](https://git.io/manishkumar-hub&hide_border=true)
+
+## My Stats
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=manishkumar-hub&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=manishkumar-hub&theme=prussian&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar-hub&theme=prussian&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
+</p>
