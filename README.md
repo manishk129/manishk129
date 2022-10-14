@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=manishkumar-hub&color=blueviolet&label=Profile+Views" alt="rocker2102" />
 
 
-- 🌱 PreFinal year undergrad at NIT Sikkim
+- 🌱 I am currently pursuing my B.Tech in CSE  at NIT Sikkim
 
 ## Programming and Scripting Langauges
 
