@@ -2,6 +2,18 @@
 
 <img src="https://komarev.com/ghpvc/?username=manishkumar-hub&color=blueviolet&label=Profile+Views" alt="rocker2102" />
 
+
+- 🌱 PreFinal year undergrad at NIT Sikkim
+
+## Programming and Scripting Langauges
+
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/php/php-original.svg" alt="php" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> <img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
+
+## Tools & Frameworks
+
+<img src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/reactjs/react-original.svg" alt="react" width="35" height="35"/> 
+
 ## Find me here 
 
 <a href="https://manishkumar12.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Rocker2102/Rocker2102/master/icons/chrome/chrome-original.svg" alt="rocker2102" height="35" width="35" /></a>
