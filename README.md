@@ -34,6 +34,5 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/manishkumarpandit12)](https://leetcode.com/manishkumarpandit12)
 </p>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manishkumar-hub)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manishkumar-hub&bg_color=3d3d3d&color=ebebeb&line=f0f0f0&point=ad0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
