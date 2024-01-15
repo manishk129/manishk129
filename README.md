@@ -1,10 +1,26 @@
+
+
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/manishkumar-hub/manishkumar-hub/assets/78676157/1e7aa8f6-6bbe-4347-b839-3051440fb6b4)
+
 # Hey there 👋, nice to see you 😀
 
 <img src="https://komarev.com/ghpvc/?username=manishkumar-hub&color=blueviolet&label=Profile+Views" alt="rocker2102" />
 
+- 🌱 I’m currently learning **generative AI**
 
-- 🌱 I am currently pursuing my B.Tech in CSE  at NIT Sikkim
+- 👯 I’m looking to collaborate on **MERN projects**
 
+- 👨‍💻 All of my projects are available at [https://manishkumar12.netlify.app/](https://manishkumar12.netlify.app/)
+
+- 💬 Ask me about **React, Node Js and Python**
+
+- 📫 How to reach me **manishkumarpandit12@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ubV_0Si09YphBuVMlmEpE4RoVNqHnqMA/view?usp=sharing](https://drive.google.com/file/d/1ubV_0Si09YphBuVMlmEpE4RoVNqHnqMA/view?usp=sharing)
+
+- ⚡ Fun fact **I think I am Technovert**
+
+  
 ## Programming and Scripting Langauges
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="35" height="35"/> <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="c++" width="35" height="35"/> 
@@ -13,8 +29,7 @@
 ## Tools & Frameworks
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="35" height="35"/> <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" alt="react" width="35" height="35"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="bootstrap" width="35" height="35"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="mysql" width="35" height="35"/> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="35" height="35"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgb1A5OyPC0h28k2BBec1-5B2ERT5M6PxE7f3jGg5iW-dabYditEw5jRSPHDY8E4XByp8&usqp=CAU" alt="npm" width="35" height="35"/> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_36c9f4cb68b04993263374f60681bc24/material-ui.png" alt="material-ui" width="35" height="35"/> 
-<img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="express" width="35" height="35"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" alt="git" width="35" height="35"/> <img src="https://www.oomnitza.com/wp-content/uploads/2022/06/github-logo-300x300.png" alt="github" width="35" height="35"/>
-
+<img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" alt="express" width="35" height="35"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" alt="git" width="35" height="35"/>  
 ## Find me here 
 
 <a href="https://manishkumar12.netlify.app/" target="_blank"><img align="center" src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/language-icon-lvl-2-abstract-bg.png.rendition.intel.web.864.486.png" alt="rocker2102" height="35" width="35" /></a>
@@ -35,4 +50,3 @@
 </p>
 
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manishkumar-hub&bg_color=3d3d3d&color=ebebeb&line=f0f0f0&point=ad0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
