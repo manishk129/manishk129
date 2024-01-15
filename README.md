@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
-- 👨‍💻 All of my projects are available at [https://manishkumar12.netlify.app/](https://manishkumar12.netlify.app/)
+- 👨‍💻 All of my projects are available at [🌐](https://manishkumar12.netlify.app/)
 
 - 💬 Ask me about **React, Node Js and Python**
 
 - 📫 How to reach me **manishkumarpandit12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ubV_0Si09YphBuVMlmEpE4RoVNqHnqMA/view?usp=sharing](https://drive.google.com/file/d/1ubV_0Si09YphBuVMlmEpE4RoVNqHnqMA/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1ubV_0Si09YphBuVMlmEpE4RoVNqHnqMA/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Technovert**
 
