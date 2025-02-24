@@ -6,19 +6,19 @@
 
 <img src="https://komarev.com/ghpvc/?username=manishkumar-hub&color=blueviolet&label=Profile+Views" alt="rocker2102" />
 
-- 🌱 I’m currently learning **generative AI**
+- 🌱 Currently doing experiments to break things with LLMS and then fix them using Stack Overflow (hopefully 🤞)
 
-- 👯 I’m looking to collaborate on **MERN projects**
+- 👯 Open to debugging projects—aka a thrilling adventure where we fix one bug and discover five more! 🐛🚨 
 
-- 👨‍💻 All of my projects are available at [🌐](https://manishkumar12.netlify.app/)
+- 👨‍💻  My projects live here →  [🌐] (https://github.com/manishk129/manishk129) (no bugs, I swear... maybe)
 
-- 💬 Ask me about **React, Node Js and Python**
+- 💬 Ask me about React, Node.js, and Python (or how I survive their errors daily)!
 
-- 📫 How to reach me **manishkumarpandit12@gmail.com**
+- 📫 Want to reach me? manishkumarpandit12@gmail.com (Carrier pigeons also accepted 🐦)
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1ubV_0Si09YphBuVMlmEpE4RoVNqHnqMA/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am Technovert**
+- ⚡ Fun fact: I think I'm a Technovert... or just a caffeine-powered human bot 🤖☕
 
   
 ## Programming and Scripting Langauges
@@ -42,9 +42,9 @@
 ## My Stats
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=manishkumar-hub&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=manishkumar-hub&theme=prussian&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar-hub&theme=prussian&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=manishk129&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=manishk129&theme=prussian&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishk129&theme=prussian&hide_border=true&layout=compact&count_private=true&hide=html,css,blade,shell" alt="top-langs" />
   
 [![Leetcode Stats](https://leetcard.jacoblin.cool/manishkumarpandit12)](https://leetcode.com/manishkumarpandit12)
 </p>
