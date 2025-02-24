@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=manishkumar-hub&color=blueviolet&label=Profile+Views" alt="rocker2102" />
 
-- 🌱 Currently doing experiments to break things with LLMS and then fix them using Stack Overflow (hopefully 🤞)
+- 🌱 Currently doing experiments to break things using LLMS and then fix them using Stack Overflow (hopefully 🤞)
 
 - 👯 Open to debugging projects—aka a thrilling adventure where we fix one bug and discover five more! 🐛🚨 
 
