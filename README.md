@@ -12,7 +12,7 @@
 
 - 👨‍💻  My projects live here →  [🌐] (https://github.com/manishk129/manishk129) (no bugs, I swear... maybe)
 
-- 💬 Ask me about React, Node.js, and Python (or how I survive their errors daily)!
+- 💬 Ask me about Python , C++ , Js, React and  Node.js (or how I survive their errors daily)!
 
 - 📫 Want to reach me? manishkumarpandit12@gmail.com (Carrier pigeons also accepted 🐦)
 
